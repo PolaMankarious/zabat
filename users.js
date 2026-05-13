@@ -7,11 +7,11 @@ class User {
 
   //getters and setters
   getName() {
-    return User.name;
+    return this.name;
   }
 
   getEmail() {
-    return User.email;
+    return this.email;
   }
 
   getAge() {

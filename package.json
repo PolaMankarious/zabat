@@ -1,6 +1,8 @@
 {
+  "name": "zabat",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "type": "module",
     "@supabase/supabase-js": "^2.105.4"
   }
 }
